@@ -5,9 +5,9 @@ This project uses the approach of text mining on the review text to classify rev
 satisfied and dissatisfied customers. The text mining also helps in identifying aspects that make 
 a customer happy or unhappy.
 
-Domain
+Domain :
 Retail
 
-Data Source
+Data Source : 
 
 https://data.world/brianray/yelp-reviews/workspace
